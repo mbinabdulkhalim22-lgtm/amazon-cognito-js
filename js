@@ -1,0 +1,1 @@
+https://docs.readthedocs.com/platform/stable/config-file/v2.html
